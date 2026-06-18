@@ -1,0 +1,28 @@
+0000000000000000000000000000000000000000 18d043eb5f3e3481a736c59b2dabcef3b99be90e Firebase Studio <noreply@firebase.studio> 1777401640 +0000	commit (initial): Initialized workspace with Firebase Studio
+18d043eb5f3e3481a736c59b2dabcef3b99be90e 2a67dbe689fa5b5cf88a4caf02521ef0a03b741d Miracle Mercy <mercymiracle662@gmail.com> 1781672767 +0000	commit: Initial prototype
+2a67dbe689fa5b5cf88a4caf02521ef0a03b741d 40d6eaa1127239d2688b0b12da08ce09f280be47 Miracle Mercy <mercymiracle662@gmail.com> 1781673050 +0000	commit: Please remove the login ptocess
+40d6eaa1127239d2688b0b12da08ce09f280be47 b70c929d9a220628884e713a9511e7c7f43c37ba Miracle Mercy <mercymiracle662@gmail.com> 1781673266 +0000	commit: in due date selection, there need to be a proper selection option calend
+b70c929d9a220628884e713a9511e7c7f43c37ba 75da3107639d0fba73212238c28a37bc1a132284 Miracle Mercy <mercymiracle662@gmail.com> 1781673357 +0000	commit: I'm finding error in choosing the due date can you change it
+75da3107639d0fba73212238c28a37bc1a132284 96d79422c4cab953e6fa0ac304f7e7484ad3622e Miracle Mercy <mercymiracle662@gmail.com> 1781673487 +0000	commit: can you enable that user can enter their due date b own by ttyping
+96d79422c4cab953e6fa0ac304f7e7484ad3622e 1822aa26252f07e1e341f64d91cd03c347a97e9c Miracle Mercy <mercymiracle662@gmail.com> 1781673746 +0000	commit: can you give neat calendar for calendar sync
+1822aa26252f07e1e341f64d91cd03c347a97e9c d561029eb72435eec5b9333fbb0f41d6e558f0e3 Miracle Mercy <mercymiracle662@gmail.com> 1781674008 +0000	commit: the days above the calendar was not proper
+d561029eb72435eec5b9333fbb0f41d6e558f0e3 fc2e1bb543d85515aa025bdf17fe6050518952ba Miracle Mercy <mercymiracle662@gmail.com> 1781674780 +0000	commit: when second assignment is being submitted there is a time delay showing
+fc2e1bb543d85515aa025bdf17fe6050518952ba e7056e627a36b5bddc39517295029702016c64c5 Miracle Mercy <mercymiracle662@gmail.com> 1781674983 +0000	commit: Set up a Firebase project
+e7056e627a36b5bddc39517295029702016c64c5 34ef4e4999b1dff0d867fc1a29c7489d54725ff9 Miracle Mercy <mercymiracle662@gmail.com> 1781675040 +0000	commit: can you send notifications to the user
+34ef4e4999b1dff0d867fc1a29c7489d54725ff9 3ec940e4fce620f1cf2ca9fc350a0822cfdaa961 Miracle Mercy <mercymiracle662@gmail.com> 1781675340 +0000	commit: can we build user profile so that we can send notificatiions to the m e
+3ec940e4fce620f1cf2ca9fc350a0822cfdaa961 fa68091dedc86488e8dfd4cf2e08a9adbc18fabf Miracle Mercy <mercymiracle662@gmail.com> 1781675467 +0000	commit: give user profile to login to start assigno
+fa68091dedc86488e8dfd4cf2e08a9adbc18fabf c6b831771b0f3867693017f19bd7b175002652cb Miracle Mercy <mercymiracle662@gmail.com> 1781675554 +0000	commit: ask only email and verify it with their phone number
+c6b831771b0f3867693017f19bd7b175002652cb 96269d858ea9376c887814a1907aa4926ae5172d Miracle Mercy <mercymiracle662@gmail.com> 1781675762 +0000	commit: no remove login and verification using phone number but ask user name an
+96269d858ea9376c887814a1907aa4926ae5172d db8963d6e11eead21f78688818d136ec6437f7d2 Miracle Mercy <mercymiracle662@gmail.com> 1781675873 +0000	commit: BUt it is not going inside the workspace
+db8963d6e11eead21f78688818d136ec6437f7d2 336b8821c28cad9950e9bb1cd130f963fa41f313 Miracle Mercy <mercymiracle662@gmail.com> 1781676025 +0000	commit: can you change the colurs to Primary: #16A34A
+336b8821c28cad9950e9bb1cd130f963fa41f313 7f62669d9bc2e1a0aa2decc4ba5b7b397c0cd33a Miracle Mercy <mercymiracle662@gmail.com> 1781676118 +0000	commit: no go back to Primary: #7C3AED
+7f62669d9bc2e1a0aa2decc4ba5b7b397c0cd33a f71318d7f93cb2028918b70701764e0d5fb30c17 Miracle Mercy <mercymiracle662@gmail.com> 1781676615 +0000	commit: add taska which have due date on toda or tomorrow in Quick schedukle
+f71318d7f93cb2028918b70701764e0d5fb30c17 4e0cbac1f1e4fbae3abbcdae31c7602ce64f59fa Miracle Mercy <mercymiracle662@gmail.com> 1781763139 +0000	commit: Connect this application to Firebase services using the Firebase project
+4e0cbac1f1e4fbae3abbcdae31c7602ce64f59fa 9e0eb5b5d8b8a486512e5dd62ba959274229fd11 Miracle Mercy <mercymiracle662@gmail.com> 1781763170 +0000	commit: Try fixing this error: `Runtime FirebaseError: Firebase: Error (auth/inv
+9e0eb5b5d8b8a486512e5dd62ba959274229fd11 207a55753ab871ce77e4b0a5020166a4687a0195 Miracle Mercy <mercymiracle662@gmail.com> 1781764422 +0000	commit: The Sign In button does nothing when clicked.
+207a55753ab871ce77e4b0a5020166a4687a0195 289436cc9bcd8d292cec2594924e7758b558629d Miracle Mercy <mercymiracle662@gmail.com> 1781764758 +0000	commit: The Sign In button is not working because Firebase is not initialized.
+289436cc9bcd8d292cec2594924e7758b558629d 2c33f6163d1c19c0eaa91966debb89b4f5e635c8 Miracle Mercy <mercymiracle662@gmail.com> 1781765341 +0000	commit: Fix Firebase initialization.
+2c33f6163d1c19c0eaa91966debb89b4f5e635c8 beac2fd61f6c5c115f6aef9720e7d60432f5f900 Miracle Mercy <mercymiracle662@gmail.com> 1781765554 +0000	commit: Implement complete assignment management.
+beac2fd61f6c5c115f6aef9720e7d60432f5f900 f234453c62a9b8def67b55247e94734b7e65b36b Miracle Mercy <mercymiracle662@gmail.com> 1781765970 +0000	commit: Add an email notification system to Assigno.
+f234453c62a9b8def67b55247e94734b7e65b36b aef824b2dfd02ca8accb5d9835ed88d5fcafbc4b Miracle Mercy <mercymiracle662@gmail.com> 1781766400 +0000	commit: Replace the Firestore email extension with Firebase Authentication email
+aef824b2dfd02ca8accb5d9835ed88d5fcafbc4b 3d42e546cd987af428b7f02ccc69c8ec9a68e776 Miracle Mercy <mercymiracle662@gmail.com> 1781770789 +0000	commit: How can I download or export the source code for this project?

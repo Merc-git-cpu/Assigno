@@ -1,0 +1,51 @@
+
+{
+  "entities": {
+    "Assignment": {
+      "title": "Assignment",
+      "description": "An academic task or deadline",
+      "type": "object",
+      "properties": {
+        "userId": { "type": "string" },
+        "title": { "type": "string" },
+        "subject": { "type": "string" },
+        "description": { "type": "string" },
+        "dueDate": { "type": "string", "format": "date-time" },
+        "priority": { "type": "string", "enum": ["High", "Medium", "Low"] },
+        "status": { "type": "string", "enum": ["pending", "completed"] },
+        "createdAt": { "type": "string", "format": "date-time" }
+      },
+      "required": ["userId", "title", "subject", "dueDate", "priority", "status"]
+    },
+    "UserProfile": {
+      "title": "User Profile",
+      "description": "User specific settings and information",
+      "type": "object",
+      "properties": {
+        "displayName": { "type": "string" },
+        "profession": { "type": "string" },
+        "university": { "type": "string" },
+        "notificationSettings": {
+          "type": "object",
+          "properties": {
+            "urgentAlerts": { "type": "boolean" },
+            "dailySummary": { "type": "boolean" }
+          }
+        }
+      }
+    }
+  },
+  "auth": {
+    "providers": ["password"]
+  },
+  "firestore": {
+    "/assignments/{assignmentId}": {
+      "schema": "Assignment",
+      "description": "Collection of academic assignments"
+    },
+    "/profiles/{userId}": {
+      "schema": "UserProfile",
+      "description": "User profile data including preferences"
+    }
+  }
+}
