@@ -4,6 +4,7 @@ import './globals.css';
 import { Toaster } from "@/components/ui/toaster"
 import { AuthProvider } from "@/components/auth-provider";
 import { FirebaseClientProvider } from '@/firebase';
+import { Analytics } from '@vercel/analytics/next';
 
 export const metadata: Metadata = {
   title: 'Assigno - Modern Assignment Management',
@@ -29,6 +30,7 @@ export default function RootLayout({
             <Toaster />
           </AuthProvider>
         </FirebaseClientProvider>
+        <Analytics />
       </body>
     </html>
   );
